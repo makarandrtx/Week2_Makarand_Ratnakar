@@ -1,0 +1,14 @@
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\bin\Debug\net7.0\week2_mini_project.exe
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\bin\Debug\net7.0\week2_mini_project.deps.json
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\bin\Debug\net7.0\week2_mini_project.runtimeconfig.json
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\bin\Debug\net7.0\week2_mini_project.dll
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\bin\Debug\net7.0\week2_mini_project.pdb
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\week2_mini_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\week2_mini_project.AssemblyInfoInputs.cache
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\week2_mini_project.AssemblyInfo.cs
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\week2_mini_project.csproj.CoreCompileInputs.cache
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\week2_mini_project.dll
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\refint\week2_mini_project.dll
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\week2_mini_project.pdb
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\week2_mini_project.genruntimeconfig.cache
+D:\Programming\CentraLogic\Week2\week2_mini_project\week2_mini_project\obj\Debug\net7.0\ref\week2_mini_project.dll
